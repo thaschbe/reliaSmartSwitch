@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: verdana;
+  background: black;
+}
+
+#wrap {
+  margin: 0 auto 30px;
+
+}
+
+#regbar {
+  height: 67px;
+  background: #34495e;
+}
+
+#navthing {
+margin-left: 50px;
+}
+
+h1 {
+  padding: 10px;
+  color: white;
+}
+h2 {
+  padding: 20px;
+  color: white;
+}
+p {
+  padding: 30px;
+  color: orange;
+}
+a {
+  padding: 50px;
+  color: white;
+}
+fieldset {
+border: none;
+}

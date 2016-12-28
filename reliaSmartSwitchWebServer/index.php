@@ -5,10 +5,10 @@
     <head>
         <meta charset="utf-8" />
         <title>reliaSmartSwitch</title>
+        <link rel="stylesheet" href="styles/main.css">
     </head>
 
-    <body style="background-color: black;">
-    <body style="color: white;">
+    <h1> reliaSmartSwitch Home</h1>
     <?php
        echo "Webpage under construction";
        echo "(c) Thomas Haschberger 2016";
