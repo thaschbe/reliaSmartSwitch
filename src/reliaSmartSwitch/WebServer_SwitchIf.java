@@ -1,4 +1,6 @@
-public class SwitchIf {
+package reliaSmartSwitch;
+
+public class WebServer_SwitchIf {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
